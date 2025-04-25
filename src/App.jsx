@@ -62,9 +62,15 @@ function App() {
         >
           📄 프론드엔드개발자지원서
         </a>
+        <a
+          className="link-button"
+          href="https://hi-eight-virid.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          👋 안녕하세요
+        </a>
       </div>
     </div>
   );
-}
-
-export default App;
+}export default App;
